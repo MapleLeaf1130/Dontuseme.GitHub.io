@@ -1,0 +1,44 @@
+<style>
+
+h1 {
+  color: #FFFFFF;
+}
+
+body {
+  color: #FFFFFF;
+}
+
+
+a:link {
+  color: #FFFFFF;
+}
+
+a:link {
+  color: #FFFFFF; 
+}
+
+a:visited {
+  color: #FFFFFF;
+}
+
+a:hover {
+  color: #FFFFFF;
+}
+
+a:active {
+  color: #FFFFFF;
+}
+
+h1 {
+  font-family: 'Lora', Helvetica, Arial;
+}
+
+body {
+  font-family: 'Lora', Helvetica, Arial;
+}
+  
+body {
+  cursor: pointer;
+background: #000000 url(CC0A9529-00AD-4FAD-B50A-D7C285404905.png) center center/cover no-repeat fixed;
+}
+</style>
